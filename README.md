@@ -1,2 +1,2 @@
 # Distributed-Computing
-A repository for Dist-Comp scripts
+A repository for Dist-Comp scripts.
